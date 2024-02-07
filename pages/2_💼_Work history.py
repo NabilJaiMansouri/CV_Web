@@ -46,7 +46,7 @@ st.write("\n")
 
 st.write(
     """
-- OCR model deployment for reading candidates' name on IDs and final degrees.
+- OCR model deployment for reading candidates' names on IDs and final degrees.
 - Reduce the error risk to less than 1%.
 """
 )
