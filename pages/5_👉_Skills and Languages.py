@@ -39,7 +39,7 @@ Python, OOP, Matlab, Labview, C++, html, CSS, Javascript \n
   <div style="font-size: 15pt; font-weight: 800;"> 📚 MLOps/DevOps</div> \n
  MLflow, ClearML, WandB, Git, CI/CD, Docker, Rest API, ...\n
   <div style="font-size: 15pt; font-weight: 800;"> 🗄️ Databases</div> \n
- MongoDB, MySQL \n
+ MongoDB, MySQL, Oracle \n
 """
 , unsafe_allow_html=True)
 
