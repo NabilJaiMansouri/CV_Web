@@ -10,6 +10,7 @@ python = "^3.11"
 streamlit = "^1.29.0"
 watchdog = "^3.0.0"
 wordcloud = "^1.9.3"
+sympy = "^1.12"
 
 
 [build-system]
