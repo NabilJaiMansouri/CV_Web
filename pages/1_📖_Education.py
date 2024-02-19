@@ -19,8 +19,8 @@ st.write(
     """
 Thesis topic: Deep Learning approach for ultrasonic signal processing.
 - Propose a method for time-of-flight estimation on ultrasonic signals that outperforms existing methods on 99% of samples.
-- Provide an Attention CAE for noise reduction on ultrasonic signals allowing for a 30 dB enhancement in SNR.
-- Leverage the proposed Attention CAE for the deconvolution of overlapping echoes and conduct an improvement of the axial resolution of the final ultra- sound images.
+- Provide an Attention Unet for noise reduction on ultrasonic signals allowing for a 30 dB enhancement in SNR.
+- Leverage the proposed Attention Unet for the deconvolution of overlapping echoes and conduct an improvement of the axial resolution of the final ultra- sound images.
 - Implementation of these techniques in an acoustic microscope.
 - Validation on Sicilium samples, allowing for precise thickness measurement and the detection of flatness defects.
 """

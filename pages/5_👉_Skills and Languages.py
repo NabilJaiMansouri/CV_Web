@@ -38,10 +38,13 @@ Python, OOP, Matlab, Labview, C++, html, CSS, Javascript \n
  Matplotlib, MS Excel, Plotly, Seaborn \n
   <div style="font-size: 15pt; font-weight: 800;"> 📚 MLOps/DevOps</div> \n
  MLflow, ClearML, WandB, Git, CI/CD, Docker, Rest API, ...\n
+   <div style="font-size: 15pt; font-weight: 800;"> ☁️ Cloud providers</div> \n
+Amazon sagemaker, GCP Vertex AI\n
   <div style="font-size: 15pt; font-weight: 800;"> 🗄️ Databases</div> \n
  MongoDB, MySQL, Oracle \n
 """
 , unsafe_allow_html=True)
+
 
 # --- Languages ---
 st.write('\n')
