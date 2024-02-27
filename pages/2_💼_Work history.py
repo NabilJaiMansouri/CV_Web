@@ -33,7 +33,11 @@ st.write(
 - Build annotated data sets of hand-written answers from MCQ.
 - Establish a Deep Learning model whose performance is monitored and improved in order to maintain its accuracy above 99%.
 - Analyze the candidates’ grades and communicate reports. 
-- Reduced the task’s processing time by 95%."""
+- Reduced the task’s processing time by 95%.
+- Auto form filling and webpage scrapping for information collection.
+- Reduced the tasks processing time by 98%.
+- AWS Textract and OCR model deployment for reading candidates’ names on IDs and final degrees reducing the error risk to less than 1%.
+"""
 )
 st.write("\n")
 
