@@ -5,12 +5,10 @@ current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = 'styles/Certifications.css'
 
 cerfits = [ {'Title':'How diffusion models work',
-            'Univ':'DeepLearning.AI',
-            },
+            'Univ':'DeepLearning.AI',},
 
             {'Title':'Understanding and applying Text Embedding',
-            'Univ':'DeepLearning.AI',
-            },
+            'Univ':'DeepLearning.AI',},
 
             {'Title':'Neural Networks and Deep Learning',
             'Univ':'Coursera',
