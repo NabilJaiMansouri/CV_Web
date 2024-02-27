@@ -4,8 +4,7 @@ from pathlib import Path
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = 'styles/Certifications.css'
 
-cerfits = [
-            {'Title': 'How diffusion models work',
+cerfits = [{'Title': 'How diffusion models work',
              'Univ': 'DeepLearning.AI'},
 
             {'Title': 'Understanding and applying Text Embedding ',

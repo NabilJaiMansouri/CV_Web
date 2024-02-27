@@ -23,6 +23,7 @@ Thesis topic: Deep Learning approach for ultrasonic signal processing.
 - Leverage the proposed Attention Unet for the deconvolution of overlapping echoes and conduct an improvement of the axial resolution of the final ultra- sound images.
 - Implementation of these techniques in an acoustic microscope.
 - Validation on Sicilium samples, allowing for precise thickness measurement and the detection of flatness defects.
+- Model deployment on an acoustic microscope as a Rest API using docker.
 """
 )
 
