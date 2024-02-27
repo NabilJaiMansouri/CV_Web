@@ -34,8 +34,14 @@ st.write(
 - Establish a Deep Learning model whose performance is monitored and improved in order to maintain its accuracy above 99%.
 - Analyze the candidates’ grades and communicate reports. 
 - Reduced the task’s processing time by 95%.
-- Auto form filling and webpage scrapping for information collection.
-- Reduced the tasks processing time by 98%.
+
+
+"""
+)
+st.write("\n")
+
+st.write(
+    """
 - AWS Textract and OCR model deployment for reading candidates’ names on IDs and final degrees reducing the error risk to less than 1%.
 """
 )
@@ -44,14 +50,7 @@ st.write("\n")
 st.write(
     """
 - Auto form filling and webpage scrapping for information collection.
-- Reduced the task’s processing time by 98%."""
-)
-st.write("\n")
-
-st.write(
-    """
-- OCR model deployment for reading candidates' names on IDs and final degrees.
-- Reduce the error risk to less than 1%.
+- Reduced the tasks processing time by 98%.
 """
 )
 
