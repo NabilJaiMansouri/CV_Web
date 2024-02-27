@@ -4,7 +4,14 @@ from pathlib import Path
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = 'styles/Certifications.css'
 
-cerfits = [{'Title':'Neural Networks and Deep Learning', 
+cerfits = [
+            {'Title': 'How diffusion models work',
+             'Univ': 'DeepLearning.AI'},
+
+            {'Title': 'Understanding and applying Text Embedding ',
+             'Univ': 'DeepLearning.AI'},
+
+            {'Title':'Neural Networks and Deep Learning',
             'Univ':'Coursera',
             'Link': 'https:///www.coursera.org/verify/5CW646LN8L7A'},
 
