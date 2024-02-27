@@ -39,7 +39,8 @@ st.write("---")
 for c in cerfits:
     st.write(f'<div style="font-size: 15pt; font-weight: 800;"> {c.get("Title")}</div>', unsafe_allow_html=True)
     st.write(f'<div style="font-size: 15pt; font-weight: 400;"> {c.get("Univ")}</div>', unsafe_allow_html=True)
-    st.write(f"[Link]({c.get('Link')})")
+    if c.get('Link'):
+        st.write(f"[Link]({c.get('Link')})")
     st.divider()
 
 # --- Academic certifications ---
