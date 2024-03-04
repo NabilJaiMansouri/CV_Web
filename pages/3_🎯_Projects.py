@@ -38,14 +38,6 @@ if st.button('Show more', key="jednzzke1"):
 
 st.divider()
 
-st.write(f'<div style="font-size: 15pt; font-weight: 800;"> Stand-up assisted surfing</div>', unsafe_allow_html=True)
-st.write('Paddling and breaking forecasting for improved assistance of surfers.')
-if st.button('Show more', key="jednzzke1"):
-    st.write(' - Preprocessing of motion sensors acquisitions')
-    st.write(' - Develop ML algorithms for Paddling and breaking prediction')
-
-st.divider()
-
 st.write(f'<div style="font-size: 15pt; font-weight: 800;"> SOLAR DECATHLON Africa</div>', unsafe_allow_html=True)
 st.write('Design and build an autonomous house running solely on solar power.')
 
