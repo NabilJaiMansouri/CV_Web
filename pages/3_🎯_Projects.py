@@ -31,7 +31,7 @@ st.divider()
 
 st.write(f'<div style="font-size: 15pt; font-weight: 800;"> Stand-up assisted surfing</div>', unsafe_allow_html=True)
 st.write('Paddling and breaking forecasting for improved assistance of surfers.')
-if st.button('Show more', key="jednzzke"):
+if st.button('Show more', key="jednzzke1"):
     st.write(' - Deconvolution of QRSs for R-peaks detection using Attention Unet')
     st.write(' - HR deriving and variability detection')
     st.write(' - ')
